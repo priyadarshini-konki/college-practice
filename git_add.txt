@@ -1,0 +1,1 @@
+hello this is in going to staging area or git index
